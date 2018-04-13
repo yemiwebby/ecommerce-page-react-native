@@ -3,7 +3,7 @@
 A simple e-commerce page design using React Native
 
 <p align="left" width="200" height="300">
-<img align="center" width="100%" height="100%" src="http://res.cloudinary.com/yemiwebby-com-ng/image/upload/v1523597669/shot1_p4ypyh.png">
+<img align="center" src="http://res.cloudinary.com/yemiwebby-com-ng/image/upload/v1523597669/shot1_p4ypyh.png">
 </p>
 
 
